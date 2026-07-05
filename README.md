@@ -1,3 +1,5 @@
+[![CI](https://github.com/shadowmodder/thresholdkit/actions/workflows/ci.yml/badge.svg)](https://github.com/shadowmodder/thresholdkit/actions/workflows/ci.yml)
+
 # thresholdkit
 
 Choosing the decision threshold is where most fraud / risk / identity models actually live or die. `thresholdkit` turns "what cutoff do we ship?" into a one-liner under the constraint you actually care about.
